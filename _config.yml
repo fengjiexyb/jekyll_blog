@@ -8,7 +8,7 @@
 # Site settings
 title: 徐代龙的技术专栏
 brief-intro: Android and Python Coder
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "jekyll_blog" # the subpath of your site, e.g. /blog
 url: "https://fengjiexyb.github.io/jekyll_blog/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
