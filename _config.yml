@@ -1,13 +1,12 @@
 # Site settings
 title: fengjiexyb's Blog
 SEOTitle: fengjiexyb的博客 | fengjiexyb's Blog
-header-img: img/home-bg.jpg
+header-img: /img/home-bg.jpg
 email: fengjiexyb@gmail.com
 description: ""
 keyword: ""
 url: "https://fengjiexyb.github.io/jekyll_blog/"              # your host, for absolute URL
 baseurl: "/jekyll_blog"         # for example, '/blog' if your blog hosted on 'host/blog'
-
 
 
 # SNS settings
